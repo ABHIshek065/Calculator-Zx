@@ -18,7 +18,7 @@ body{
 }
 
 .calculator{
-    position: fixed;
+    position: relative;
     width: 340px;
     padding: 20px;
     border-radius: 20px;
